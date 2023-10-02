@@ -1,7 +1,7 @@
 
-public class Ta01JavaBasicsApp {
+public class Ta04JavaBasicsApp {
 	public static void main(String[] args) {
-		Ta01JavaBasicsApp programa = new Ta01JavaBasicsApp();
+		Ta04JavaBasicsApp programa = new Ta04JavaBasicsApp();
 
         programa.operacion1();
         programa.operacion2();
